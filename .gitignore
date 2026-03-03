@@ -1,0 +1,17 @@
+
+
+# R / RStudio
+*.Rhistory
+
+
+# Logs
+*.log
+
+
+# Temporary files
+*.tmp
+*.swp
+*~
+*.Rproj.user
+
+
