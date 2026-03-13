@@ -7,8 +7,20 @@ authors:
 - family-names: "Mittmann-Goetsch"
   given-names: "Julian"
   orcid: "https://orcid.org/0009-0001-3723-6805"
+- family-names: "Logemann"
+  given-names: "Ella Lu"
+- family-names: "Brodehl"
+  given-names: "Alexander"
+- family-names: "Bartholomäus"
+  given-names: "Alexander"
+- family-names: "Jensen"
+  given-names: "Kai"
+- family-names: "Liebner"
+  given-names: "Susanne"
+- family-names: "Mueller"
+  given-names: "Peter"
 title: "Ecosystem state and soil depth determine the microbial community response to warming in coastal marsh soils "
 version: 2.0.4
-doi: 10.5281/zenodo.1234567
+doi: 10.5281/zenodo.18999430
 date-released: 2026-March-13
 url: "https://github.com/joschwrzr/EcosystemState_16SwarmingResponse"
