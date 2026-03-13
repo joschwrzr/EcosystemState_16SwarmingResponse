@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schwarzer"
+  given-names: "Johanna"
+  orcid: "https://orcid.org/0000-0002-8973-7628"
+- family-names: "Mittmann-Goetsch"
+  given-names: "Julian"
+  orcid: "https://orcid.org/0009-0001-3723-6805"
+title: "Ecosystem state and soil depth determine the microbial community response to warming in coastal marsh soils "
+version: 2.0.4
+doi: 10.5281/zenodo.1234567
+date-released: 2026-March-13
+url: "https://github.com/joschwrzr/EcosystemState_16SwarmingResponse"
